@@ -15,3 +15,6 @@ def password_generate(choice):
     password = "".join(random.sample(validation_string,length))
     print(password)
     return password
+
+
+# testing pr dropdown
